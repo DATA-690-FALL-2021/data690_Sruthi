@@ -57,7 +57,7 @@ _Inspired by the best to be crème de la crème_
     
 * __Python Developer__  : 
     - [x] Comapany: _Halcyon Technologies_
-    - [x] Dealt with: _worked on python, Data Base and ML, later was assigmed to work on a chat bot using Google Dialog flow which for a food delivery application
+    - [x] Dealt with: _worked on python, Data Base and ML, later was assigmed to work on a chat bot using Google Dialog flow which for a food delivery application_
 
 _Embracing a new perspective of implementing what I learnt_
 
