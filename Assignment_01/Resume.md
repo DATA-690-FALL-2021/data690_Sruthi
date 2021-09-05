@@ -30,7 +30,7 @@ _I'd like to see myself as an AI Engineer in the span of next 5 years who would 
     - [x] GPA: _8.0_ 
 * __High School__ :
     - [x] College: _Sri Chaithanya Junior College_
-    - [x] Course:  _Math, Physics and chemistry
+    - [x] Course:  _Math, Physics and chemistry_
     - [x] Duration: _2015 to 2017_
     - [x] GPA: _9.4_
 
@@ -49,7 +49,7 @@ _Inspired by the best to be crème de la crème_
 
 ----------------------------------------------------------------------------------------------
 
-## __Making my way towards Expertise (Internships)__
+## __Making my way towards expertise (Internships)__
 
 * __Data Engineer__ 
     - [x] Comapny: _Wavelab Technologies_
@@ -57,7 +57,7 @@ _Inspired by the best to be crème de la crème_
     
 * __Python Developer__  : 
     - [x] Comapany: _Halcyon Technologies_
-    - [x] Dealt with: _worked on python, Data Base and ML, later was assigmed to work on a chat bot using Google Dialog flow which for a food delivery application_
+    - [x] Dealt with: _worked on python, Data Base and ML, later was assigned to work on a chat bot using Google Dialog flow which for a food delivery application_
 
 _Embracing a new perspective of implementing what I learnt_
 
@@ -100,24 +100,24 @@ _Music is the universal language of mankind (breaks language, cultural and econo
 ## __Awards__
 
 * __Carnatic Music__ - _lite music competition_
-* __scenery sketching__ - _painting competetion_
+* __Scenery sketching__ - _painting competetion_
 
 ---------------------------------------------------------------------------------------------
 
 ## __Social Activities__
 
 * __The Alpha School__ - _an organisation for children education and welfare_
-* __sandhana society women's welfare organisation__ 
+* __Sandhana society women's welfare organisation__ 
 
 > _erving humans is equal to serving the lord_
 --------------------------------------------------------------------------------------------
 
 ## __Hobbies__
 
-* __singing__
-* __dancing__
-* __reading Novels__
-* __sketching__
+* __Singing__
+* __Dancing__
+* __Reading Novels__
+* __Sketching__
 
 _Never stop with one thing_
 
