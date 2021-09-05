@@ -1,6 +1,6 @@
 ![sruthi pic](https://user-images.githubusercontent.com/89980785/132111445-3848417c-ff43-431b-813e-e1d2d267f210.jpeg)
 
-## __Who Am I ?__                                                                                                   
+## __Get to Know Me__                                                                                                   
                     
 ### Sruthi Batchala
 ##### contact: +1 (667)910-1042
